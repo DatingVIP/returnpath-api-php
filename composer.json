@@ -1,5 +1,5 @@
 {
-    "name": "returnpath/api",
+    "name": "datingvip/returnpath-api",
     "description": "PHP Client Library for Return Path API",
     "keywords": ["returnpath"],
     "homepage": "http://api.returnpath.com/",
